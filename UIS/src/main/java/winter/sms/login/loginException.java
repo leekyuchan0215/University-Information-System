@@ -6,8 +6,8 @@ package winter.sms.login;
 
 /**
  *
- * @author rbcks
+ * @author jimin
  */
 public class loginException {
-    
+    // 로그인 예외 처리
 }

@@ -6,8 +6,8 @@ package winter.sms.login;
 
 /**
  *
- * @author rbcks
+ * @author jimin
  */
 public class loginService {
-    
+    // 로그인 기능 처리 (로직 담당)
 }

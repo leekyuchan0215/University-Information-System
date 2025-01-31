@@ -9,7 +9,7 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseOpenController extends javax.swing.JFrame {
-
+// 강의 개설 화면 GUI
     /**
      * Creates new form courseOpenController
      */

@@ -9,5 +9,5 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseRequest {
-    
+    // 강의등록. 개설 getter,setter
 }

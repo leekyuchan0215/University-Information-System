@@ -6,8 +6,8 @@ package winter.sms.login;
 
 /**
  *
- * @author rbcks
+ * @author jimin
  */
 public class loginRepository {
-    
+    // 로그인 기능 txt파일 상호 작용
 }

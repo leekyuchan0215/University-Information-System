@@ -9,5 +9,5 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseService {
-    
+    //강의등록. 개설 로직 담당
 }

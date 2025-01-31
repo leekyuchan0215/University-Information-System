@@ -9,7 +9,7 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseEditController extends javax.swing.JFrame {
-
+// 강의 수정 GUI
     /**
      * Creates new form courseEditController
      */

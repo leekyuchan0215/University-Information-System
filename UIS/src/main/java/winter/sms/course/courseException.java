@@ -9,5 +9,5 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseException {
-    
+    // 강의등록, 개설 기능 예외처리
 }

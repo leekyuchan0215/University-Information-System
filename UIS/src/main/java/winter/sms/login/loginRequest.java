@@ -3,11 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package winter.sms.login;
-
 /**
  *
- * @author rbcks
+ * @author jimin
  */
 public class loginRequest {
-    
+    // 로그인 기능 객체이름 설정, 데이터 저장, getter.setter
 }

@@ -6,10 +6,10 @@ package winter.sms.login;
 
 /**
  *
- * @author rbcks
+ * @author jimin
  */
 public class loginController extends javax.swing.JFrame {
-
+    // 로그인 기능 GUI 
     /**
      * Creates new form loginController
      */

@@ -9,5 +9,5 @@ package winter.sms.course;
  * @author rbcks
  */
 public class courseRepository {
-    
+    // 강의등록. 개설 txt 파일 상호작용
 }
